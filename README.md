@@ -6,6 +6,10 @@
 ## 輪読本のタイトル
 ［第2版］Python機械学習プログラミング 達人データサイエンティストによる理論と実践
 
+[公式Githubはこちらからどうぞ✌️](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+
+<img width="200" src="https://images-fe.ssl-images-amazon.com/images/I/51tinGCtkrL._SX260_.jpg"></img>
+
 ## 内容
 Pythonで機械学習を行う際の、データハンドリング〜モデルの構築までを体系的に学びます。
 
