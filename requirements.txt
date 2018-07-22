@@ -17,6 +17,7 @@ jupyter==1.0.0
 jupyter-client==5.1.0
 jupyter-console==5.1.0
 jupyter-core==4.3.0
+jupyter-emacskeys==0.2.3
 jupyterthemes==0.19.3
 lesscpy==0.13.0
 MarkupSafe==1.0
